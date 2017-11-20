@@ -1,0 +1,7 @@
+#lab-3-client.yml
+---
+spring:
+lucky-word: Irish
+---
+spring:
+lucky-word: Serendipity
